@@ -37,12 +37,6 @@
 ### GitHub Streak Stats
 
 <div align="center">
-  <img src="https://badgen.net/github/assets/tawan-ptk?icon=github&label=TOTAL%20REPOS&color=00ff9d&labelColor=0d0d0d" />
-  <img src="https://gitsvg.com/api/v1/user/tawan-ptk/stars?color=%2300ff9d&labelColor=%230d0d0d&style=for-the-badge&label=STARS" />
-  <img src="https://badgen.net/github/followers/tawan-ptk?icon=github&label=FOLLOWERS&color=00ff9d&labelColor=0d0d0d" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=tawan-ptk&theme=dark&border=00ff9d&ring=00ff9d&fire=00ff9d&currStreakLabel=00ff9d&background=0d0d0d&stroke=00ff9d&dates=ffffff" alt="GitHub Streak" />
 </div>
 
