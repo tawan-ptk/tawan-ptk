@@ -37,6 +37,12 @@
 ### 📊 GitHub Streak Stats
 
 <div align="center">
+  <img src="https://img.shields.io/github/languages/top/tawan-ptk/tawan-ptk?style=for-the-badge&logo=python&color=00ff9d&labelColor=0d0d0d" />
+  <img src="https://img.shields.io/github/stars/tawan-ptk?style=for-the-badge&logo=github&color=00ff9d&labelColor=0d0d0d" />
+  <img src="https://img.shields.io/github/repo-count/tawan-ptk?style=for-the-badge&logo=git&color=00ff9d&labelColor=0d0d0d" />
+</div>
+
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=tawan-ptk&theme=dark&border=00ff9d&ring=00ff9d&fire=00ff9d&currStreakLabel=00ff9d&background=0d0d0d&stroke=00ff9d&dates=ffffff" alt="GitHub Streak" />
 </div>
 
