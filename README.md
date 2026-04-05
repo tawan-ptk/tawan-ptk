@@ -1,4 +1,4 @@
-# ## Hi there, I'm Tawan! 👋 ✨
+### Hi there, I'm Tawan! 👋 ✨
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=tawan-ptk&label=Profile%20views&color=0e75b6&style=flat" alt="tawan-ptk" />
