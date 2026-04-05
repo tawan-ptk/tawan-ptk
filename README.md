@@ -6,7 +6,7 @@
 
 ---
 
-### Tech Stack
+### Skills
 
 <p align="left">
   <a href="https://www.python.org" target="_blank">
