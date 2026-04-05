@@ -41,7 +41,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tawan-ptk&theme=chartreuse-dark&bg_color=0d0d0d&border_color=00ff9d" />
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=tawan-ptk&theme=dark&color=00ff9d" />
 </div>
 
 ---
