@@ -63,5 +63,5 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=4000&pause=1000&color=444444&center=true&vCenter=true&width=400&lines=building+cool+stuff+%2F%2F+one+commit+at+a+time" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=4000&pause=1000&color=00FF9D&center=true&vCenter=true&width=500&lines=Defining+the+future+through+clean+code" />
 </div>
