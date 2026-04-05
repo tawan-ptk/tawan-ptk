@@ -42,14 +42,14 @@
   <img src="https://img.shields.io/github/followers/tawan-ptk?style=for-the-badge&logo=github&color=00ff9d&labelColor=0d0d0d&label=FOLLOWERS" />
 
 <div align="center">
-  <img src="https://img.shields.io/github/languages/count/tawan-ptk/tawan-ptk?style=for-the-badge&logo=github&color=00ff9d&labelColor=0d0d0d&label=LANGUAGES" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=00ff9d&labelColor=0d0d0d&label=TOTAL%20REPOS&query=$.public_repos&url=https://api.github.com/users/tawan-ptk" />
 
-  <img src="https://img.shields.io/github/repo-size/tawan-ptk/tawan-ptk?style=for-the-badge&logo=git&color=00ff9d&labelColor=0d0d0d&label=REPO%20SIZE" />
-</div>
+  <img src="https://komarev.com/ghpvc/?username=tawan-ptk&style=for-the-badge&color=00ff9d&labelColor=0d0d0d&label=PROFILE%20VIEWS" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=tawan-ptk&theme=dark&border=00ff9d&ring=00ff9d&fire=00ff9d&currStreakLabel=00ff9d&background=0d0d0d&stroke=00ff9d&dates=ffffff" alt="GitHub Streak" />
+  <br />
+  <img src="https://img.shields.io/badge/Top%20Tech-Python%20%7C%20C%2B%2B%20%7C%20ROS-00ff9d?style=for-the-badge&labelColor=0d0d0d" />
 </div>
 
 
