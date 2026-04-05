@@ -41,9 +41,10 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tawan-ptk&theme=darkhub&column=4&margin-w=15&margin-h=15&no-bg=true" />
+  <br />
+  <img src="https://img.shields.io/github/last-commit/tawan-ptk?style=for-the-badge&logo=git&color=00ff9d&labelColor=0d0d0d&label=LAST%20UPDATE" />
+  <img src="https://img.shields.io/badge/Main%20Stack-Python%20%7C%20ROS-00ff9d?style=for-the-badge&labelColor=0d0d0d" />
 </div>
----
 
 ### 🌐 Connect
 
