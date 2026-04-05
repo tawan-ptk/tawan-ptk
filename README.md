@@ -34,10 +34,12 @@
 
 ---
 
-### 📊 GitHub Achievements
+### 📈 GitHub Overview
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tawan-ptk&theme=darkhub&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=false" alt="tawan-ptk trophies" />
+  <img src="https://img.shields.io/github/followers/tawan-ptk?label=Followers&style=for-the-badge&color=00ff9d&labelColor=0d0d0d" />
+  <img src="https://img.shields.io/github/stars/tawan-ptk?label=Total%20Stars&style=for-the-badge&color=00ff9d&labelColor=0d0d0d" />
+  <img src="https://img.shields.io/github/repo-count/tawan-ptk?label=Repositories&style=for-the-badge&color=00ff9d&labelColor=0d0d0d" />
 </div>
 
 ---
