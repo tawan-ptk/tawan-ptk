@@ -37,19 +37,8 @@
 ### 📊 GitHub Streak Stats
 
 <div align="center">
-  <img src="https://img.shields.io/github/stars/tawan-ptk?style=for-the-badge&logo=github&color=00ff9d&labelColor=0d0d0d&label=TOTAL%20STARS" />
-  <img src="https://img.shields.io/badge/%20%26%20ROS-00ff9d?style=for-the-badge&logo=python&labelColor=0d0d0d" />
-  <img src="https://img.shields.io/github/followers/tawan-ptk?style=for-the-badge&logo=github&color=00ff9d&labelColor=0d0d0d&label=FOLLOWERS" />
-
-<div align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=00ff9d&labelColor=0d0d0d&label=TOTAL%20REPOS&query=$.public_repos&url=https://api.github.com/users/tawan-ptk" />
-
-  <img src="https://komarev.com/ghpvc/?username=tawan-ptk&style=for-the-badge&color=00ff9d&labelColor=0d0d0d&label=PROFILE%20VIEWS" />
-</div>
-
-<div align="center">
   <br />
-  <img src="https://img.shields.io/badge/Top%20Tech-Python%20%7C%20C%2B%2B%20%7C%20ROS-00ff9d?style=for-the-badge&labelColor=0d0d0d" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tawan-ptk&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff9d&text_color=ffffff" height="150" />
 </div>
 
 
