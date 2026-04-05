@@ -38,7 +38,6 @@
 
 <div align="center">
   <img src="https://img.shields.io/github/stars/tawan-ptk?style=for-the-badge&logo=github&color=00ff9d&labelColor=0d0d0d&label=TOTAL%20STARS" />
-  <img src="https://gitsvg.com/api/v1/user/tawan-ptk/repos?color=%2300ff9d&labelColor=%230d0d0d&style=for-the-badge&label=REPOS" />
   <img src="https://img.shields.io/github/followers/tawan-ptk?style=for-the-badge&logo=github&color=00ff9d&labelColor=0d0d0d&label=FOLLOWERS" />
 </div>
 <div align="center">
