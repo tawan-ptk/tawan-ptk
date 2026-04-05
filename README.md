@@ -1,4 +1,4 @@
-## Hi there, I'm Tawan! 👋 ✨
+Hi there, I'm Tawan! 👋 ✨
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=tawan-ptk&label=Profile%20views&color=0e75b6&style=flat" alt="tawan-ptk" />
@@ -25,13 +25,13 @@
 🛠️ Tech Stack:
 
 <p align="left">
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/html5-%2523E34F26.svg%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite" alt="HTML5" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/javascript-%2523323330.svg%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3D%2523F7DF1E" alt="JavaScript" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/c-%252300599C.svg%3Fstyle%3Dfor-the-badge%26logo%3Dc%26logoColor%3Dwhite" alt="C" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/c%2B%2B-%252300599C.svg%3Fstyle%3Dfor-the-badge%26logo%3Dc%252B%252B%26logoColor%3Dwhite" alt="C++" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/-Raspberry%2520Pi-C51A4A%3Fstyle%3Dfor-the-badge%26logo%3DRaspberry-Pi" alt="Raspberry Pi" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/ros-%25230A0FF9.svg%3Fstyle%3Dfor-the-badge%26logo%3Dros%26logoColor%3Dwhite" alt="ROS2" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3670A0%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dffdd54" alt="Python" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/HTML5-E34F26%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite" alt="HTML5" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" alt="JavaScript" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/C-00599C%3Fstyle%3Dfor-the-badge%26logo%3Dc%26logoColor%3Dwhite" alt="C" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/C%252B%252B-00599C%3Fstyle%3Dfor-the-badge%26logo%3Dc%252B%252B%26logoColor%3Dwhite" alt="C++" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Raspberry%2520Pi-A22846%3Fstyle%3Dfor-the-badge%26logo%3Draspberrypi%26logoColor%3Dwhite" alt="Raspberry Pi" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/ROS2-22314E%3Fstyle%3Dfor-the-badge%26logo%3Dros%26logoColor%3Dwhite" alt="ROS2" />
 </p>
 
 📊 GitHub Stats:
