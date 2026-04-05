@@ -6,11 +6,11 @@
 
 💫 About Me:
 
-🔭 Working on: [ระบุโปรเจกต์ที่ทำอยู่]
+🔭 Working on: [ระบุโปรเจกต์ที่ทำอยู่ เช่น Robotics Project / Web App]
 
-🌱 Learning: [สิ่งที่กำลังศึกษา เช่น AI, Robotics]
+🌱 Learning: [สิ่งที่กำลังศึกษา เช่น ROS2 Advanced, AI, Embedded Systems]
 
-💬 Ask me about: [เรื่องที่เชี่ยวชาญ]
+💬 Ask me about: [เรื่องที่เชี่ยวชาญ เช่น Python, Raspberry Pi, Electronics]
 
 ⚡ Fun fact: [เรื่องตลกๆ หรือความภูมิใจส่วนตัว]
 
@@ -25,13 +25,18 @@
 🛠️ Tech Stack:
 
 <p align="left">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython,html,js,cpp,raspberrypi,ros%26theme%3Ddark" />
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpy,html,js,c,cpp,raspberrypi,ros,git,linux" />
 </p>
 
 📊 GitHub Stats:
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=tawan-ptk&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+
+
+
+
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tawan-ptk&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
