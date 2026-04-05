@@ -37,11 +37,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://readme-stats.vercel.app/api?username=tawan-ptk&show_icons=true&theme=chartreuse-dark&border_color=00ff9d&bg_color=0d0d0d&title_color=00ff9d&text_color=ffffff" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=tawan-ptk&theme=dark&border=00ff9d&ring=00ff9d&fire=00ff9d&currStreakLabel=00ff9d&background=0d0d0d&stroke=00ff9d&dates=ffffff" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=tawan-ptk&show_icons=true&theme=chartreuse-dark&border_color=00ff9d&bg_color=0d0d0d&title_color=00ff9d&text_color=ffffff" />
 </div>
 
 ---
