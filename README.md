@@ -6,7 +6,7 @@
 
 ---
 
-### ⚡ Tech Stack
+### Tech Stack
 
 <p align="left">
   <a href="https://www.python.org" target="_blank">
@@ -34,7 +34,7 @@
 
 ---
 
-### 📊 GitHub Streak Stats
+### GitHub Streak Stats
 
 <div align="center">
   <img src="https://img.shields.io/github/stars/tawan-ptk?style=for-the-badge&logo=github&color=00ff9d&labelColor=0d0d0d&label=TOTAL%20STARS" />
@@ -46,7 +46,7 @@
 </div>
 
 
-### 🌐 Connect
+### Connect
 
 <p align="left">
   <a href="https://www.facebook.com/kongphop.panjatarakul" target="_blank">
