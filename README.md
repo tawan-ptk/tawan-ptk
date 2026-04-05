@@ -41,9 +41,8 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=tawan-ptk&theme=dark&color=00ff9d" />
+  <img src="https://github-profile-trophy.vercel.app/?username=tawan-ptk&theme=darkhub&column=4&margin-w=15&margin-h=15&no-bg=true" />
 </div>
-
 ---
 
 ### 🌐 Connect
