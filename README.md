@@ -34,19 +34,16 @@
 
 ---
 
-### 📊 Coding Metrics
+### 📊 GitHub Streak Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=tawan-ptk&show_icons=true&theme=chartreuse-dark&bg_color=0d0d0d&border_color=00ff9d&title_color=00ff9d&text_color=ffffff" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=tawan-ptk&theme=dark&border=00ff9d&ring=00ff9d&fire=00ff9d&currStreakLabel=00ff9d&background=0d0d0d&stroke=00ff9d&dates=ffffff" alt="GitHub Streak" />
 </div>
-
-<br/>
-
-### 📈 Weekly Activity
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tawan-ptk&bg_color=0d0d0d&color=00ff9d&line=00ff9d&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tawan-ptk&theme=chartreuse-dark&bg_color=0d0d0d&border_color=00ff9d" />
 </div>
+
 ---
 
 ### 🌐 Connect
