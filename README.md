@@ -34,10 +34,10 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Achievements
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=tawan-ptk&show_icons=true&theme=chartreuse-dark&border_color=00ff9d&bg_color=0d0d0d&title_color=00ff9d&text_color=ffffff" />
+  <img src="https://github-profile-trophy.vercel.app/?username=tawan-ptk&theme=darkhub&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=false" alt="tawan-ptk trophies" />
 </div>
 
 ---
