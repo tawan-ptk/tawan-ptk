@@ -11,13 +11,27 @@
 ### ⚡ Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=00ff9d" />
-  <img src="https://img.shields.io/badge/HTML5-0d0d0d?style=for-the-badge&logo=html5&logoColor=00ff9d" />
-  <img src="https://img.shields.io/badge/Java-0d0d0d?style=for-the-badge&logo=openjdk&logoColor=00ff9d" />
-  <img src="https://img.shields.io/badge/C-0d0d0d?style=for-the-badge&logo=c&logoColor=00ff9d" />
-  <img src="https://img.shields.io/badge/C++-0d0d0d?style=for-the-badge&logo=cplusplus&logoColor=00ff9d" />
-  <img src="https://img.shields.io/badge/Raspberry_Pi-0d0d0d?style=for-the-badge&logo=raspberrypi&logoColor=00ff9d" />
-  <img src="https://img.shields.io/badge/ROS-0d0d0d?style=for-the-badge&logo=ros&logoColor=00ff9d" />
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=00ff9d" />
+  </a>
+  <a href="https://www.w3schools.com/html/" target="_blank">
+    <img src="https://img.shields.io/badge/HTML5-0d0d0d?style=for-the-badge&logo=html5&logoColor=00ff9d" />
+  </a>
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://img.shields.io/badge/Java-0d0d0d?style=for-the-badge&logo=openjdk&logoColor=00ff9d" />
+  </a>
+  <a href="https://www.w3schools.com/c/c_intro.php" target="_blank">
+    <img src="https://img.shields.io/badge/C-0d0d0d?style=for-the-badge&logo=c&logoColor=00ff9d" />
+  </a>
+  <a href="https://www.w3schools.com/cpp/cpp_intro.asp" target="_blank">
+    <img src="https://img.shields.io/badge/C++-0d0d0d?style=for-the-badge&logo=cplusplus&logoColor=00ff9d" />
+  </a>
+  <a href="https://www.raspberrypi.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Raspberry_Pi-0d0d0d?style=for-the-badge&logo=raspberrypi&logoColor=00ff9d" />
+  </a>
+  <a href="https://www.ros.org/" target="_blank">
+    <img src="https://img.shields.io/badge/ROS-0d0d0d?style=for-the-badge&logo=ros&logoColor=00ff9d" />
+  </a>
 </p>
 
 ---
@@ -25,8 +39,12 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=tawan-ptk&show_icons=true&theme=chartreuse-dark&border_color=00ff9d&bg_color=0d0d0d&title_color=00ff9d&text_color=ffffff" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tawan-ptk&layout=compact&theme=chartreuse-dark&border_color=00ff9d&bg_color=0d0d0d&title_color=00ff9d&text_color=ffffff" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=tawan-ptk&show_icons=true&theme=chartreuse-dark&border_color=00ff9d&bg_color=0d0d0d&title_color=00ff9d&text_color=ffffff&count_private=true&include_all_commits=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tawan-ptk&layout=compact&theme=chartreuse-dark&border_color=00ff9d&bg_color=0d0d0d&title_color=00ff9d&text_color=ffffff&langs_count=6" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=tawan-ptk&theme=dark&border=00ff9d&ring=00ff9d&fire=00ff9d&currStreakLabel=00ff9d&background=0d0d0d&stroke=00ff9d&dates=ffffff" />
 </div>
 
 ---
