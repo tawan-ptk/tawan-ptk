@@ -38,8 +38,14 @@
 
 <div align="center">
   <img src="https://img.shields.io/github/stars/tawan-ptk?style=for-the-badge&logo=github&color=00ff9d&labelColor=0d0d0d&label=TOTAL%20STARS" />
-  <img src="https://img.shields.io/badge/FOCUS-AI%20%26%20ROS-00ff9d?style=for-the-badge&logo=python&labelColor=0d0d0d" />
+  <img src="https://img.shields.io/badge/%20%26%20ROS-00ff9d?style=for-the-badge&logo=python&labelColor=0d0d0d" />
   <img src="https://img.shields.io/github/followers/tawan-ptk?style=for-the-badge&logo=github&color=00ff9d&labelColor=0d0d0d&label=FOLLOWERS" />
+
+<div align="center">
+  <img src="https://img.shields.io/github/languages/count/tawan-ptk/tawan-ptk?style=for-the-badge&logo=github&color=00ff9d&labelColor=0d0d0d&label=LANGUAGES" />
+
+  <img src="https://img.shields.io/github/repo-size/tawan-ptk/tawan-ptk?style=for-the-badge&logo=git&color=00ff9d&labelColor=0d0d0d&label=REPO%20SIZE" />
+</div>
 </div>
 
 <div align="center">
