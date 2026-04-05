@@ -38,7 +38,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/github/stars/tawan-ptk?style=for-the-badge&logo=github&color=00ff9d&labelColor=0d0d0d&label=TOTAL%20STARS" />
-  <img src="https://img.shields.io/github/repo-count/tawan-ptk?style=for-the-badge&logo=git&color=00ff9d&labelColor=0d0d0d&label=REPOS" />
+  <img src="https://img.shields.io/github/repo-count/tawan-ptk?style=for-the-badge&logo=git&color=00ff9d&labelColor=0d0d0d&label=REPOS&cache=0" />
   <img src="https://img.shields.io/github/followers/tawan-ptk?style=for-the-badge&logo=github&color=00ff9d&labelColor=0d0d0d&label=FOLLOWERS" />
 </div>
 
