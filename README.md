@@ -34,12 +34,18 @@
 
 ---
 
-### 📈 GitHub Overview
+### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://img.shields.io/github/followers/tawan-ptk?label=Followers&style=for-the-badge&color=00ff9d&labelColor=0d0d0d" />
-  <img src="https://img.shields.io/github/stars/tawan-ptk?label=Total%20Stars&style=for-the-badge&color=00ff9d&labelColor=0d0d0d" />
-  <img src="https://img.shields.io/github/repo-count/tawan-ptk?label=Repositories&style=for-the-badge&color=00ff9d&labelColor=0d0d0d" />
+  <img src="https://img.shields.io/badge/Open%20Source%20Projects-10+-00ff9d?style=for-the-badge&logo=github&logoColor=0d0d0d" />
+  <img src="https://img.shields.io/github/commit-activity/m/tawan-ptk?style=for-the-badge&color=00ff9d&labelColor=0d0d0d&label=Commits" />
+  <img src="https://img.shields.io/github/stars/tawan-ptk?style=for-the-badge&color=00ff9d&labelColor=0d0d0d&label=Stars" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tawan-ptk&bg_color=0d0d0d&color=00ff9d&line=00ff9d&point=ffffff&area=true&hide_border=true" />
 </div>
 
 ---
