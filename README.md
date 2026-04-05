@@ -34,16 +34,23 @@
 
 ---
 
-### 📊 GitHub Status & Skills
+### 📊 Coding Status
 
 <div align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tawan-ptk&theme=2178_dark" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=tawan-ptk&theme=2178_dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=tawan-ptk&theme=dark&border=00ff9d&ring=00ff9d&fire=00ff9d&currStreakLabel=00ff9d&background=0d0d0d&stroke=00ff9d&dates=ffffff" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tawan-ptk&repo=tawan-ptk&theme=chartreuse-dark&border_color=00ff9d&bg_color=0d0d0d" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tawan-ptk&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff9d&text_color=ffffff" height="150" />
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/tawan-ptk/tawan-ptk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 
 ---
