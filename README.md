@@ -2,7 +2,7 @@
 
 AI & Web Developer
 
-### 🌐 Sicials:
+### 🌐 Socials:
 
 <p align="left">
 <a href="https://facebook.com/YOUR_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
