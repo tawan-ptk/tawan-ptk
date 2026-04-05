@@ -1,21 +1,43 @@
-<h1 align="center">✨ Hello, I'm Tawan-PTK ✨</h1>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tawan-ptk&color=blueviolet&style=flat-square" alt="Profile Views" />
+# ## Hi there, I'm Tawan! 👋 ✨
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=tawan-ptk&label=Profile%20views&color=0e75b6&style=flat" alt="tawan-ptk" />
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" /></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white" /></a>
+### 💫 About Me:
+- 🔭 **Working on:** [ระบุโปรเจกต์ที่ทำอยู่]
+- 🌱 **Learning:** [สิ่งที่กำลังศึกษา เช่น React, Python, AI]
+- 💬 **Ask me about:** [เรื่องที่เชี่ยวชาญ]
+- ⚡ **Fun fact:** [เรื่องตลกๆ หรือความภูมิใจส่วนตัว]
+
+---
+
+### 🌐 Connect with me:
+
+<p align="left">
+<a href="[https://facebook.com/kongphop.panjatarakul]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+<a href="[https://www.instagram.com/tawan_kpp/]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<a href="[https://www.youtube.com/@LOH-LOH]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
 </p>
 
 ---
 
-### ⚡ Quick Byte
-- 🔭 **Current Focus:** Building scalable web applications.
-- ⚡ **Fun Fact:** I code better when it's raining. 🌧️
-- 👯 **Collaboration:** Open for Open Source projects!
-
-### 💻 Top Languages
+### 🛠️ Tech Stack:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tawan-ptk&layout=compact&theme=vision-friendly-dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,figma" />
+</p>
+
+---
+
+### 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tawan-ptk&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tawan-ptk&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
 </p>
