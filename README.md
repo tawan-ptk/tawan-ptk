@@ -37,14 +37,15 @@
 ### 📊 GitHub Streak Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=tawan-ptk&theme=dark&border=00ff9d&ring=00ff9d&fire=00ff9d&currStreakLabel=00ff9d&background=0d0d0d&stroke=00ff9d&dates=ffffff" alt="GitHub Streak" />
+  <img src="https://img.shields.io/github/stars/tawan-ptk?style=for-the-badge&logo=github&color=00ff9d&labelColor=0d0d0d&label=TOTAL%20STARS" />
+  <img src="https://img.shields.io/github/repo-count/tawan-ptk?style=for-the-badge&logo=git&color=00ff9d&labelColor=0d0d0d&label=REPOS" />
+  <img src="https://img.shields.io/github/followers/tawan-ptk?style=for-the-badge&logo=github&color=00ff9d&labelColor=0d0d0d&label=FOLLOWERS" />
 </div>
 
 <div align="center">
-  <br />
-  <img src="https://img.shields.io/github/last-commit/tawan-ptk?style=for-the-badge&logo=git&color=00ff9d&labelColor=0d0d0d&label=LAST%20UPDATE" />
-  <img src="https://img.shields.io/badge/Main%20Stack-Python%20%7C%20ROS-00ff9d?style=for-the-badge&labelColor=0d0d0d" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=tawan-ptk&theme=dark&border=00ff9d&ring=00ff9d&fire=00ff9d&currStreakLabel=00ff9d&background=0d0d0d&stroke=00ff9d&dates=ffffff" alt="GitHub Streak" />
 </div>
+
 
 ### 🌐 Connect
 
