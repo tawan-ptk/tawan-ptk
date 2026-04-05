@@ -37,8 +37,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tawan-ptk&show_icons=true&theme=chartreuse-dark&border_color=00ff9d&bg_color=0d0d0d&title_color=00ff9d&text_color=ffffff&count_private=true&include_all_commits=true" />
-  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tawan-ptk&layout=compact&theme=chartreuse-dark&border_color=00ff9d&bg_color=0d0d0d&title_color=00ff9d&text_color=ffffff&langs_count=6" />
+  <img height="160" src="https://readme-stats.vercel.app/api?username=tawan-ptk&show_icons=true&theme=chartreuse-dark&border_color=00ff9d&bg_color=0d0d0d&title_color=00ff9d&text_color=ffffff" />
 </div>
 
 <div align="center">
