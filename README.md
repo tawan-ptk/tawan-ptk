@@ -1,9 +1,5 @@
 ## Hi there, I'm Tawan! 👋 ✨
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=tawan-ptk&label=Profile%20views&color=0e75b6&style=flat" alt="tawan-ptk" />
-</p>
-
 💫 About Me:
 
 🔭 Working on: [ระบุโปรเจกต์ที่ทำอยู่ เช่น Robotics Project / Web App]
@@ -32,6 +28,8 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=tawan-ptk&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+
+
 
 
 
